@@ -43,6 +43,7 @@ Steps to Run the Project
 
 https://github.com/user-attachments/assets/15e83a9c-2260-4565-abd9-6ba17d9a47b8
 
+TASK 2-RANDOM QUOTE GENERATOR
 Aura Quote is a simple and elegant web application that generates inspirational and motivational quotes randomly.
 Users can generate new quotes, save their favorite quotes, and share them easily. 
 The project provides a clean user interface and enhances user experience with a favorites section.
